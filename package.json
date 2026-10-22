@@ -1,5 +1,5 @@
 {
-  "name": "shazam-iptv",
+  "name": "tojael-iptv",
   "version": "1.0.0",
   "description": "",
   "main": "canais.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/isaiaspedro55/SHAZAM-IPTV.git"
+    "url": "git+https://github.com/tojaeldanieldev11/Tojael-IPTV.git"
   },
   "keywords": [],
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/isaiaspedro55/SHAZAM-IPTV/issues"
+    "url": "https://github.com/tojaeldanieldev11/Tojael-IPTV/issues"
   },
-  "homepage": "https://github.com/isaiaspedro55/SHAZAM-IPTV#readme",
+  "homepage": "https://github.com/tojaeldanieldev11/Tojael-IPTV#readme",
   "dependencies": {
     "bcryptjs": "^3.0.3",
     "cors": "^2.8.6",
